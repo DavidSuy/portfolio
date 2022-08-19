@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm David Suy. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 I'm David Suy.I’m currently studying Full-Stack JavaScript at Code Fellows. As a former Sergeant in the Marine Corps and a former barbershop owner, I’ve had the chance to meet and work with many people from a diverse background. I’ve been told by many people that one of my greatest strengths is my ability to create a comfortable atmosphere for my peers to relax and be themselves. Which then, promotes a good growth mindset environment. I got into software development because I love tech and want to build fun and useful apps that everyone can use. That’s why I chose JavaScript, the accessibility to so many people because of the internet. My Ideal environment is where I can develop apps that can change people’s lives for the better. I’m looking to get my foot in the door in tech as an entry-level developer. Thank you 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,38 +11,38 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Fly Swatter Game",
+      "startDate": "2022",
+      "description": "A fun Game where you swat flies and compete with your friends for a chance for the Highscore!",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/fly-swatter/flySwatter-screenshot01.jpg",
+        "images/portfolio/fly-swatter/flySwatter-screenshot02.jpg"
       ],
-      "url": "",
+      "url": "https://davidsuy.github.io/fly-swatter/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Gallery of Horns",
+      "startDate": "2022",
+      "description": "A gallery of Horn Beast! You can filter the gallery to show only Beasts with a certain amount of horns",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/gallery-of-horns/gallery-of-horns-screenshot01.jpg",
+        "images/portfolio/gallery-of-horns/gallery-of-horns-screenshot02.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://hornbeastgallery.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,11 +55,11 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "301 Final project(Coming Soon)",
+      "startDate": "2022",
+      "description": "..........coming soon",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
+        "https://cdn.suruga-ya.jp/database/pics_light/game/669007811.jpg",
         "images/portfolio/adventure/p2.jpg"
       ],
       "url": "https://github.com",
