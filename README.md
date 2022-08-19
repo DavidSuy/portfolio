@@ -1,3 +1,7 @@
-# Modify this portfolio
+# David Suy Portfolio
 
-Make it your own! 
+## Projects
+
+[Gallery of Horns](https://hornbeastgallery.netlify.app/)
+
+[Fly Swatter Game](https://davidsuy.github.io/fly-swatter/)
