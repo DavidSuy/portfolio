@@ -7,3 +7,15 @@ I’m currently studying Full-Stack JavaScript at Code Fellows. As a former Serg
 [Gallery of Horns](https://hornbeastgallery.netlify.app/)
 
 [Fly Swatter Game](https://davidsuy.github.io/fly-swatter/)
+
+## Time Estimate
+
+Number and name of featurs: update personal data
+
+Estimate fo time needed to complete: 2 hours
+
+Start time: 1430
+
+Finished time: 1600
+
+Actual time needed to complete: 330 hours
